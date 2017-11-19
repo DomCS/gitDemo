@@ -6,4 +6,8 @@ public class Main {
         System.out.println("Hello woeld");
         System.out.println("written in git");
     }
+
+    public static void printName() {
+        System.out.println("Dom");
+    }
 }
